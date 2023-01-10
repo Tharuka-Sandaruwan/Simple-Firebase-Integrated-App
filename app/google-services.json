@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149666132976",
+    "project_id": "simple-firebase-integrated-app",
+    "storage_bucket": "simple-firebase-integrated-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149666132976:android:0a6d9b9eb4ed87ea07a335",
+        "android_client_info": {
+          "package_name": "com.example.simplefirebaseintegratedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149666132976-u61spv7t6rnoph8nl8nhdk1d60s613pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADWd7jHiEjHH7oPlppIsjwwuabS1kze0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149666132976-u61spv7t6rnoph8nl8nhdk1d60s613pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
